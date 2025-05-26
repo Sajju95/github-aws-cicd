@@ -1,4 +1,4 @@
-## 🛍️ Simple Github AWS CICD Pipeline Sajid
+## 🛍️ Simple Github AWS CICD Pipeline
 
 <p align="center">
 
