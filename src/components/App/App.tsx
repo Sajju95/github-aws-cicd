@@ -9,7 +9,7 @@ import { useProducts } from 'contexts/products-context';
 
 import * as S from './style';
 
-function App() {
+function App() { 
   const { isFetching, products, fetchProducts } = useProducts();
 
   useEffect(() => {
